@@ -5,3 +5,4 @@ importantly, SliverBSD will NOT mainline FreeBSD 15.x and 16.x features into the
 to compile wii-ppc run `make -f wii-ppc.mk`
 # Info
 there is NO userland or init so SliverBSD kernel ppc-wii will halt but work in progress for now
+you cannot easily target SliverBSD because FreeBSD apps will not work on it at all and the ppc-kernel is in it’s early beta 
